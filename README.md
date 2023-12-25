@@ -1,4 +1,4 @@
-# classification-using-rnn-lstm
+# Classification using RNN-LSTM
 
 This tutorial shows how to classify images of flowers using a `tf.keras.Sequential` model and load data using `tf.keras.utils.image_dataset_from_directory`. It demonstrates the following concepts:
 
